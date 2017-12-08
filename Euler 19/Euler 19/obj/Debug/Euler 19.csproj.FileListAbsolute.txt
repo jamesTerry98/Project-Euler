@@ -1,0 +1,7 @@
+C:\Users\james.terry\source\repos\Euler 19\Euler 19\obj\Debug\Euler 19.csprojResolveAssemblyReference.cache
+C:\Users\james.terry\source\repos\Euler 19\Euler 19\obj\Debug\Euler 19.csproj.CoreCompileInputs.cache
+C:\Users\james.terry\source\repos\Euler 19\Euler 19\bin\Debug\Euler 19.exe.config
+C:\Users\james.terry\source\repos\Euler 19\Euler 19\bin\Debug\Euler 19.exe
+C:\Users\james.terry\source\repos\Euler 19\Euler 19\bin\Debug\Euler 19.pdb
+C:\Users\james.terry\source\repos\Euler 19\Euler 19\obj\Debug\Euler 19.exe
+C:\Users\james.terry\source\repos\Euler 19\Euler 19\obj\Debug\Euler 19.pdb

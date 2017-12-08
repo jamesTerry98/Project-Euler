@@ -1,0 +1,7 @@
+C:\Users\james.terry\source\repos\Euler 11\Euler 11\bin\Debug\Euler 11.exe.config
+C:\Users\james.terry\source\repos\Euler 11\Euler 11\bin\Debug\Euler 11.exe
+C:\Users\james.terry\source\repos\Euler 11\Euler 11\bin\Debug\Euler 11.pdb
+C:\Users\james.terry\source\repos\Euler 11\Euler 11\obj\Debug\Euler 11.csprojResolveAssemblyReference.cache
+C:\Users\james.terry\source\repos\Euler 11\Euler 11\obj\Debug\Euler 11.csproj.CoreCompileInputs.cache
+C:\Users\james.terry\source\repos\Euler 11\Euler 11\obj\Debug\Euler 11.exe
+C:\Users\james.terry\source\repos\Euler 11\Euler 11\obj\Debug\Euler 11.pdb

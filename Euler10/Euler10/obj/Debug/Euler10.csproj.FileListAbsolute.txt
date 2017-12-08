@@ -1,0 +1,7 @@
+C:\Users\james.terry\source\repos\Euler10\Euler10\bin\Debug\Euler10.exe.config
+C:\Users\james.terry\source\repos\Euler10\Euler10\bin\Debug\Euler10.exe
+C:\Users\james.terry\source\repos\Euler10\Euler10\bin\Debug\Euler10.pdb
+C:\Users\james.terry\source\repos\Euler10\Euler10\obj\Debug\Euler10.csprojResolveAssemblyReference.cache
+C:\Users\james.terry\source\repos\Euler10\Euler10\obj\Debug\Euler10.csproj.CoreCompileInputs.cache
+C:\Users\james.terry\source\repos\Euler10\Euler10\obj\Debug\Euler10.exe
+C:\Users\james.terry\source\repos\Euler10\Euler10\obj\Debug\Euler10.pdb
